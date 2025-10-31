@@ -1,25 +1,25 @@
-<!-- Banner ou saudação -->
-<h1 align="center">👋 Olá! Eu sou o Mateus Rodrigues</h1>
+<!-- Greeting banner -->
+<h1 align="center">👋 Hi there! I'm Mateus Rodrigues</h1>
 
 <p align="center">
-  💻 Desenvolvedor Back-End | 🚀 Node.js | NestJS | PostgreSQL <br/>
-  🎓 Estudante de Ciência da Computação - IFMA <br/>
-  🌎 Maranhão, Brasil
+  💻 Back-End Developer | 🚀 Node.js | NestJS | PostgreSQL <br/>
+  🎓 Computer Science Student - IFMA <br/>
+  🌎 Maranhão, Brazil
 </p>
 
 ---
 
-### 🧠 Sobre mim
+### 🧠 About Me
 
-- 🔭 Atualmente trabalhando em projetos **Node.js / NestJS** com **PostgreSQL e Prisma**
-- 🌱 Estudando **arquitetura de software**, **testes automatizados (Jest)** e **Docker**
-- 👯 👯 Em busca de novas oportunidades profissionais e colaborações em projetos reais para expandir minha experiência prática
-- 💬 Gosto de conversar sobre Node.js, Express, NestJS, PostgreSQL, testes e clean code
-- ⚡ Curiosidade: sou movido por desafios e adoro transformar ideias em soluções funcionais e bem estruturadas
+- 🔭 Currently working on **Node.js / NestJS** projects with **PostgreSQL and Prisma**
+- 🌱 Learning **software architecture**, **automated testing (Jest)**, and **Docker**
+- 👯 Looking for new **professional opportunities** and **collaboration on real-world projects** to expand my practical experience
+- 💬 Let's talk about **Node.js, Express, NestJS, PostgreSQL, testing, and clean code**
+- ⚡ Fun fact: I’m driven by challenges and love turning ideas into clean, functional, and well-structured solutions
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Technologies & Tools
 
 <div align="center">
 
@@ -36,7 +36,7 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-#### ⚙️ Outras
+#### ⚙️ Others
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VSCode](https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -45,18 +45,16 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusRodr&show_icons=true&theme=radical" alt="Estatísticas do GitHub do Mateus"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusRodr&layout=compact&theme=radical&hide=python" alt="Linguagens mais usadas"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusRodr&show_icons=true&theme=radical" alt="Mateus' GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusRodr&layout=compact&theme=radical&hide=python" alt="Most Used Languages"/>
 </div>
-
 
 ---
 
-### 🌐 Conecte-se comigo
+### 🌐 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mateusrodriguesd/" target="_blank">
