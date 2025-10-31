@@ -1,0 +1,11 @@
+# Force GitHub to consider all .ts and .tsx files as TypeScript
+*.ts linguist-detectable=true
+*.tsx linguist-detectable=true
+*.ts linguist-language=TypeScript
+*.tsx linguist-language=TypeScript
+
+# Ignore other languages like Cython or C
+*.py linguist-detectable=false
+*.pyx linguist-detectable=false
+*.c linguist-detectable=false
+*.cpp linguist-detectable=false
