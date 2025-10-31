@@ -69,5 +69,3 @@
 </p>
 
 ---
-
-⭐️ **"Code. Learn. Repeat."**
