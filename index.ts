@@ -1,1 +1,0 @@
-console.log("Forçando Linguist a reconhecer TypeScript");
